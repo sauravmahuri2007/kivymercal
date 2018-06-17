@@ -1,0 +1,3 @@
+title=Merchant Calculator
+author=Saurav Kumar
+orientation=portrait
